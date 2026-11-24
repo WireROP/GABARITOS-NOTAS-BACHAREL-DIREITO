@@ -1,0 +1,173 @@
+================================================================================
+DIREITO ELEITORAL - RESUMO COMPLETO PARA PROVA (AULAS 12 A 15)
+10º Semestre - Direito | Professora Marcilene Andrade
+================================================================================
+
+--------------------------------------------------------------------------------
+AULA 12: PROPAGANDA POLÍTICA E ELEITORAL
+--------------------------------------------------------------------------------
+
+1. CONCEITO E FUNDAMENTOS
+- A propaganda política é instrumento de participação democrática que divulga ideias, programas e candidaturas, contribuindo para a formação da opinião pública e o exercício consciente do voto.
+- Base Constitucional: CF, arts. 5º, IV e IX (liberdade de expressão e informação), 14 e 17.
+- Distinção fundamental: Nem toda manifestação política constitui propaganda eleitoral.
+
+2. MODALIDADES DE PROPAGANDA POLÍTICA
+- PROPAGANDA PARTIDÁRIA:
+  * Finalidade: Divulgar ideias, programas e atividades institucionais dos partidos (ex.: propostas sobre educação, saúde e segurança).
+  * Destinatário: Sociedade em geral (não pode ser propaganda de campanha).
+  * Base Legal: Lei nº 9.096/1995, art. 50-A e seguintes.
+
+- PROPAGANDA INTRAPARTIDÁRIA:
+  * Finalidade: Conquistar apoio dos filiados para a escolha de candidatos em convenção.
+  * Destinatário: Filiados e convencionais (âmbito interno do partido). Não autoriza campanha antecipada ao eleitorado.
+  * Base Legal: Lei nº 9.504/1997, art. 36, § 1º.
+
+- PROPAGANDA ELEITORAL:
+  * Finalidade: Divulgar candidaturas, propostas e programas para conquistar votos.
+  * Destinatário: Eleitorado em geral. Permitida apenas a partir de 16 DE AGOSTO do ano eleitoral.
+  * Base Legal: Lei nº 9.504/1997, art. 36.
+
+3. PRINCÍPIOS DA PROPAGANDA ELEITORAL
+- Liberdade de expressão e de informação.
+- Igualdade de oportunidades entre os candidatos.
+- Legalidade e transparência.
+- Proteção da liberdade de escolha do eleitor.
+- Normalidade e legitimidade das eleições.
+
+4. PRÉ-CAMPANHA E PROPAGANDA ELEITORAL ANTECIPADA
+- Marco Temporal: Atos de propaganda eleitoral praticados antes de 16 de agosto configuram propaganda eleitoral antecipada (ilícita).
+- O que é PERMITIDO na pré-campanha (Lei nº 9.504/1997, art. 36-A), desde que NÃO HAJA PEDIDO EXPLÍCITO DE VOTO:
+  * Menção à pretensa candidatura;
+  * Apresentação de propostas e posicionamentos políticos;
+  * Participação em entrevistas e debates;
+  * Divulgação de qualidades pessoais.
+- ATENÇÃO (Pegadinha): A ausência de pedido explícito de voto NÃO torna lícita a utilização de meios de propaganda proibidos (ex.: uso de outdoor pago na pré-campanha é ilegal mesmo sem pedir voto).
+
+5. INTERNET, DESINFORMAÇÃO E INTELIGÊNCIA ARTIFICIAL
+- Internet (Lei nº 9.504/1997, arts. 57-A a 57-J): Exige identificação e transparência nos gastos. A propaganda paga na internet é vedada como regra geral, admitindo-se como EXCEÇÃO o IMPULSIONAMENTO, desde que observados os requisitos legais.
+- IA e Desinformação (Resolução TSE nº 23.610/2019): Combate notícias falsas e conteúdos manipulados capazes de induzir o eleitor a erro.
+  * Deepfake: Conteúdo sintético manipulado por IA generativa para simular imagem, voz ou comportamento de determinada pessoa. Exige transparência e sofre restrições específicas do TSE.
+
+* Caso Prático (Aula 12): Vídeo na pré-campanha apenas apresentando propostas = LÍCITO (art. 36-A). Vídeo posterior pedindo expressamente votos antes de 16 de agosto = PROPAGANDA ANTECIPADA ILÍCITA.
+
+
+--------------------------------------------------------------------------------
+AULA 13: FINANCIAMENTO ELEITORAL E PRESTAÇÃO DE CONTAS
+--------------------------------------------------------------------------------
+
+1. CONCEITO E FINALIDADES
+- Conjunto de regras sobre arrecadação, utilização e fiscalização dos recursos de campanha (Lei nº 9.504/1997 e Resolução TSE nº 23.607/2019).
+- Finalidades: Assegurar transparência financeira, prevenir o abuso de poder econômico, garantir igualdade de oportunidades e permitir o controle pela Justiça Eleitoral.
+
+2. FONTES PÚBLICAS: FUNDO PARTIDÁRIO VS. FEFC
+Ambos envolvem recursos públicos e estão sujeitos à fiscalização e prestação de contas:
+
+- FUNDO PARTIDÁRIO (Lei nº 9.096/1995, art. 44):
+  * Finalidade: Financia o funcionamento e as atividades rotineiras dos partidos políticos (finalidade mais ampla).
+  * Uso em campanha: Pode custear campanhas eleitorais dentro dos limites legais.
+
+- FEFC - FUNDO ESPECIAL DE FINANCIAMENTO DE CAMPANHA (Lei nº 9.504/1997, art. 16-C):
+  * Finalidade: Financiamento público específico e exclusivo das campanhas eleitorais.
+  * Sobras de campanha: Valores não utilizados DEVEM SER DEVOLVIDOS AO TESOURO NACIONAL.
+
+3. FONTES PRIVADAS: DOAÇÕES PERMITIDAS E VEDADAS (Lei nº 9.504/1997, art. 23)
+- Doações de Pessoas Físicas: PERMITIDAS, exigindo identificação e transparência.
+  * Limite Geral: Até 10% dos rendimentos brutos auferidos pelo doador no ano anterior à eleição. (Ex.: rendimento bruto de R$ 150.000,00 -> doação máxima de R$ 15.000,00).
+- Recursos Próprios do Candidato: Permitidos, observados os limites legais aplicáveis.
+- Doações Empresariais (Pessoas Jurídicas): TOTALMENTE VEDADAS. A identificação da empresa não torna a doação lícita.
+
+4. GASTOS E PRESTAÇÃO DE CONTAS (Lei nº 9.504/1997, arts. 28 e 30)
+- Obrigatoriedade: Alcança candidatos e partidos, abrangendo recursos públicos e privados. É exigida MESMO QUANDO NÃO HOUVER MOVIMENTAÇÃO FINANCEIRA.
+- 4 Resultados Possíveis do Julgamento:
+  1. Aprovação;
+  2. Aprovação com ressalvas;
+  3. Desaprovação;
+  4. Julgamento pela não prestação.
+
+* Caso Prático (Aula 13): Recursos não utilizados do FEFC devem ser devolvidos ao Tesouro Nacional, e despesas custeadas com recursos privados devem constar obrigatoriamente na prestação de contas.
+
+
+--------------------------------------------------------------------------------
+AULA 14: VOTAÇÃO, APURAÇÃO E DIPLOMAÇÃO
+--------------------------------------------------------------------------------
+
+1. ORGANIZAÇÃO E MESAS RECEPTORAS DE VOTOS
+- Votação: Exercício concreto da capacidade eleitoral ativa (CF, art. 14).
+- Mesas Receptoras: Conduzem os trabalhos na seção eleitoral (identificam eleitores, organizam a votação e registram ocorrências).
+  * IMPORTANTE: As mesas receptoras NÃO possuem competência jurisdicional para julgar ações eleitorais.
+
+2. URNA ELETRÔNICA E SIGILO DO VOTO
+- Urna Eletrônica: Garante registro eletrônico dos votos, segurança, auditoria e fiscalização pelos legitimados.
+- Sigilo e Inviolabilidade do Voto (CF, art. 14): Garantia constitucional que protege a liberdade de escolha do eleitor. Terceiros (incluindo fiscais partidários) NÃO PODEM acompanhar o eleitor na cabine nem controlar sua escolha.
+
+3. APURAÇÃO, TOTALIZAÇÃO, DIPLOMAÇÃO E POSSE
+- Apuração vs. Totalização:
+  * Apurar: Contabilizar os votos registrados na eleição.
+  * Totalizar: Reunir os resultados apurados para definir a votação obtida por candidatos, partidos e federações na circunscrição (sistemas majoritário e proporcional).
+- Diplomação vs. Posse:
+  * Diplomação: Ato formal da JUSTIÇA ELEITORAL que declara oficialmente os eleitos e suplentes.
+  * Posse: Ato de investidura no cargo eletivo (não se confunde com diplomação).
+- Sequência Cronológica Obrigatória:
+  Votação -> Apuração -> Totalização -> Proclamação dos Resultados -> Diplomação -> Posse
+
+* Caso Prático (Aula 14): O Presidente da Mesa Receptora deve IMPEDIR que fiscal partidário acompanhe eleitor até a cabine, pois a fiscalização não pode violar o sigilo constitucional do voto (CF, art. 14).
+
+
+--------------------------------------------------------------------------------
+AULA 15: ILÍCITOS ELEITORAIS E TUTELA JURISDICIONAL
+--------------------------------------------------------------------------------
+
+1. ILÍCITOS ELEITORAIS (Proteção à Legitimidade - CF, art. 14, § 9º)
+- ABUSO DE PODER ECONÔMICO (LC nº 64/1990, art. 22, XVI):
+  * Utilização abusiva de recursos financeiros ou estruturas empresariais em benefício de candidatura.
+  * Regra-chave: Configura-se pela GRAVIDADE DAS CIRCUNSTÂNCIAS, NÃO sendo exigida demonstração matemática de alteração do resultado eleitoral.
+
+- ABUSO DE PODER POLÍTICO:
+  * Utilização abusiva de cargo, função, posição de autoridade pública ou estrutura administrativa para favorecer candidaturas e comprometer a igualdade de oportunidades.
+
+- USO INDEVIDO DOS MEIOS DE COMUNICAÇÃO:
+  * Utilização abusiva e grave de veículos de comunicação para favorecer candidaturas. (Atenção: o exercício legítimo da liberdade de imprensa ou mera manifestação favorável/desfavorável não configura automaticamente ilícito).
+
+- CAPTAÇÃO ILÍCITA DE SUFRÁGIO - "Compra de Votos" (Lei nº 9.504/1997, art. 41-A):
+  * Doar, oferecer, prometer ou entregar bem ou vantagem pessoal ao eleitor com a finalidade de obter seu voto.
+  * Regra-chave: Basta a prática da conduta; NÃO é necessário demonstrar que o eleitor efetivamente votou no candidato.
+
+- CONDUTAS VEDADAS AOS AGENTES PÚBLICOS (Lei nº 9.504/1997, art. 73):
+  * Proíbe o uso da Administração Pública em benefício de candidaturas (ex.: uso de bens públicos, cessão de servidores em campanhas durante o expediente normal, uso de serviços custeados pelo Poder Público).
+
+2. QUADRO-RESUMO DAS AÇÕES ELEITORAIS
+
+- AIRC (Ação de Impugnação de Registro de Candidatura):
+  * Finalidade: Questionar a regularidade jurídica do registro de candidatura.
+  * Fundamentos: Ausência de condição de elegibilidade, causa de inelegibilidade ou descumprimento de requisito legal.
+  * Prazo: 5 DIAS contados da publicação do edital relativo ao pedido de registro.
+  * Base Legal: LC nº 64/1990, art. 3º.
+
+- AIJE (Ação de Investigação Judicial Eleitoral):
+  * Finalidade: Investigar condutas que comprometam a normalidade e a legitimidade das eleições.
+  * Hipóteses: Abuso de poder econômico, abuso de poder político e uso indevido dos meios de comunicação.
+  * Base Legal: LC nº 64/1990, art. 22.
+
+- AIME (Ação de Impugnação de Mandato Eletivo):
+  * Finalidade: Impugnar mandato eletivo já outorgado.
+  * Fundamentos: Abuso do poder econômico, corrupção ou fraude.
+  * Prazo Constitucional: 15 DIAS contados da diplomação.
+  * Base Legal: CF, art. 14, §§ 10 e 11.
+
+3. NOÇÕES SOBRE RECURSOS ELEITORAIS
+- Decisões dos Juízes Eleitorais -> recursos aos TREs (nas hipóteses cabíveis).
+- Decisões dos TREs -> recursos ao TSE (nas hipóteses constitucional e legalmente previstas).
+- Regra: Não existe recorribilidade irrestrita de todas as decisões eleitorais.
+
+
+================================================================================
+CHECKLIST RÁPIDO DE "PEGADINHAS" PARA A PROVA
+================================================================================
+1. Pré-campanha sem pedido de voto + meio proibido (ex.: outdoor) = ILÍCITA.
+2. Sobra do FEFC não utilizada = volta para o TESOURO NACIONAL.
+3. Prestação de contas sem movimentação financeira = continua OBRIGATÓRIA.
+4. Abuso de poder econômico = basta a GRAVIDADE DAS CIRCUNSTÂNCIAS (não exige prova matemática de alteração do resultado).
+5. Compra de votos (art. 41-A) = NÃO precisa provar que o eleitor votou no candidato.
+6. Prazos: AIRC = 5 dias (do edital) | AIME = 15 dias (da diplomação).
+================================================================================
