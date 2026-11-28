@@ -1,0 +1,129 @@
+% ----------------------------------------------------------
+% PACOTES BÁSICOS
+% ----------------------------------------------------------
+\usepackage{lmodern}            % Usa a fonte Latin Modern          
+\usepackage[T1]{fontenc}        % Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}     % Codificacao do documento (conversão automática dos acentos)
+\usepackage{lastpage}           % Usado pela Ficha catalográfica
+\usepackage{indentfirst}        % Indenta o primeiro parágrafo de cada seção.
+\usepackage{color}              % Controle das cores
+\usepackage{graphicx}           % Inclusão de gráficos
+\usepackage{microtype}          % para melhorias de justificação
+\usepackage[newfloat]{minted}   % Pygments
+\usepackage{nomencl}            % Necessário para o commando makeindex
+\usepackage[brazilian,hyperpageref]{backref}    % Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}   % Citações padrão ABNT
+\usepackage{lipsum}             
+\usepackage{adjustbox}
+\usepackage{amsmath,amssymb}
+\usepackage{siunitx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{multirow}
+\usepackage{subcaption}
+%\usepackage{epigraph}
+\usepackage{lscape}
+\usepackage{xurl}               % Quebra links longos direito
+\usepackage[ruled,vlined,portuguese,onelanguage]{algorithm2e} %for psuedo code
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata,calc,chains,fit,matrix,positioning,quotes,shadows,shapes,tikzmark,decorations.pathreplacing}
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest,compat/show suggested version=false}
+
+% CONFIGURAÇÕES DE PACOTES
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+\renewcommand{\backref}{}
+% Define os textos da citação
+\renewcommand*{\backrefalt}[4]{
+    \ifcase #1 %
+        Nenhuma citação no texto.%
+    \or
+        Citado na página #2.%
+    \else
+        Citado #1 vezes nas páginas #2.%
+    \fi}%
+
+% Corrige bug do anexo (https://github.com/abntex/abntex2/issues/76)
+\newcommand{\refanexo}[1]{\hyperref[#1]{Anexo~\ref{#1}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% TIKZ
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tabelas
+\tikzset{square matrix/.style={
+    matrix of nodes,
+    column sep=-\pgflinewidth, row sep=-\pgflinewidth,
+    nodes={draw,
+      minimum height=#1,
+      anchor=center,
+      text width=#1,
+      align=center,
+      inner sep=0pt
+    },
+  },
+  square matrix/.default=2em
+}
+
+% Distância entre extremidades de dois nós
+\makeatletter
+\def\DistanciaExtremidades(#1,#2)#3{%
+\pgfpointdiff{\pgfpointanchor{#1}{west}}{\pgfpointanchor{#2}{east}}
+\pgfmathsetmacro{\myheight}{veclen(\pgf@x,\pgf@y)}
+\global\expandafter\edef\csname #3\endcsname{\myheight}
+}
+\makeatother
+
+% Distância entre centros de dois nós
+\makeatletter
+\def\DistanciaCentros(#1,#2)#3{%
+\pgfpointdiff{\pgfpointanchor{#1}{center}}{\pgfpointanchor{#2}{center}}
+\pgfmathsetmacro{\myheight}{veclen(\pgf@x,\pgf@y)}
+\global\expandafter\edef\csname #3\endcsname{\myheight}
+}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LISTA DE CÓDIGOS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newenvironment{code}{\captionsetup{type=listing}}{}
+
+\makeatletter
+\let\l@listing\l@figure
+\def\newfloat@listoflisting@hook{\let\figurename\listingname}
+\makeatother
+
+\SetupFloatingEnvironment{listing}{%
+  fileext=lol,
+  listname={Lista de códigos},
+  name=Código,
+  placement=p,
+  within=none,
+  chapterlistsgaps=on}
+
+\setminted{% bgcolor = gray!15, 
+            frame = lines,
+            mathescape,
+            autogobble,
+            %breakanywhere,
+            breaklines,
+            framesep = 2mm,
+            baselinestretch = 1.2,
+            fontsize = \footnotesize,
+            linenos
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LISTA DE ALGORITMOS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\let\oldlistofalgorithms\listofalgorithms
+%\let\oldnumberline\numberline%
+%\newcommand{\algnumberline}[1]{Algoritmo~#1 -- }
+%\renewcommand{\listofalgorithms}{%
+%  \let\numberline\algnumberline%
+%  \oldlistofalgorithms
+%  \let\numberline\oldnumberline%
+%}
